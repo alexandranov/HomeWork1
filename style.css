@@ -1,0 +1,11 @@
+#docolor1 .docolor2 h1
+{
+    color: green;
+}
+.docolor2 h1
+{
+color: red;
+}
+h1{
+    color: blue !important;
+}
